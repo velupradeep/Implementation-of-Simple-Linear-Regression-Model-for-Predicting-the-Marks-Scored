@@ -98,7 +98,5 @@ print('RMSE =',rmse)
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/82524506-64c9-46ee-be01-413da5c77d08)
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/5a1afca8-ca06-4cab-a934-b0be80831729)
 
-
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
