@@ -23,7 +23,7 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Pradeep V
+Developed by: PRADEEP V
 RegisterNumber:  212223240119
 */
 ```
@@ -94,12 +94,25 @@ print('RMSE =',rmse)
 ```
 
 ## Output:
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/f09d76c2-8f60-411b-8a31-bc0ed7a6dcd0)
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/9f128445-69ed-4f65-993f-32bd5923163d)
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/06947775-d60c-40ad-9384-291c1e3199ef)
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d39e4e00-84fe-4fce-9476-e007db1ff69d)
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/82524506-64c9-46ee-be01-413da5c77d08)
-![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/5a1afca8-ca06-4cab-a934-b0be80831729)
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/2725adc9-1b2a-45ca-9f4f-3a4d11bdbcf6)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/7adfd6ca-0830-484d-b36d-ccf4def3d519)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/3307d249-8432-4cec-bbbf-be9139f667bc)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/cbcadc5a-0622-4628-b885-467f1dea286d)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/874d6525-1e17-4b6e-81b6-64ac820c0f4b)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/238f1e62-fb05-4d35-9dfb-eb4f97625214)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/e7430c82-df22-4920-a6b2-7ad3d5e4dfbb)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/2badf3e9-b987-471b-a316-f8ea5722de7e)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/bee99dee-2285-423b-8cd7-59dccf6bd328)
+
+![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/942765f0-3077-4fa4-bb20-20dac68dbb46)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
