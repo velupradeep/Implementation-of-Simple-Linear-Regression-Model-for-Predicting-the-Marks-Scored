@@ -1,3 +1,6 @@
+                                                              #NAME:PRADEEP V
+                                                              #REG NO:212223240119
+
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
