@@ -1,7 +1,7 @@
                                                               #NAME:PRADEEP V
                                                               #REG NO:212223240119
 
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# EX-02 Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
