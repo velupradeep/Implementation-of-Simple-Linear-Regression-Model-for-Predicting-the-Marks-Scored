@@ -71,6 +71,11 @@ rmse=np.sqrt(mse)
 print('RMSE =',rmse)
 ```
 
+```
+
+
+```
+
 ## Output:
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/1cbd36d1-8030-4489-bdc7-2cefabd21477)
 
