@@ -74,17 +74,41 @@ print('RMSE =',rmse)
 ## Output:
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/1cbd36d1-8030-4489-bdc7-2cefabd21477)
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/fecc0c1f-e6d9-4b5e-9013-8f42208135d6)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/c4e2c805-8c7f-4f6d-920a-6f5c2decb0cc)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/84ebdd0a-27a5-49f6-838f-d873ec6bab78)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/0eadd030-6e53-4772-bfe3-c61aee0367cb)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/e5f9a69d-ef68-4168-829d-11d602445c31)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/ad9c4e63-3099-4708-acf3-f6dd253f4729)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/c37abebf-0495-47e8-9025-8ef4563b2cfc)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d887d7b0-5a95-4b95-ab2e-8f7a87ee2390)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d82a1425-0c61-41fb-8db0-6ed91f299249)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/dc15f54d-3323-4cc1-a1bc-778479c2a138)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/ae42f178-ea12-4e73-a56d-ede3f5493f26)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/1cd71f5d-6c29-4a10-b7ac-1a0fff0ce145)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/2506dfcd-392a-4509-9492-7933628ca4f9)
 
 
