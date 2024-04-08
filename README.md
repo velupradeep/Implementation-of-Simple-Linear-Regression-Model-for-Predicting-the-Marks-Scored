@@ -18,6 +18,13 @@ To write a program to predict the marks scored by a student using the simple lin
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 
+
+```
+
+
+
+```
+
 ## Program:
 ```
 /*
@@ -80,6 +87,8 @@ print('RMSE =',rmse)
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/1cbd36d1-8030-4489-bdc7-2cefabd21477)
 
 
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/fecc0c1f-e6d9-4b5e-9013-8f42208135d6)
 
 
@@ -102,6 +111,9 @@ print('RMSE =',rmse)
 
 
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d887d7b0-5a95-4b95-ab2e-8f7a87ee2390)
+
+
+
 
 
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d82a1425-0c61-41fb-8db0-6ed91f299249)
