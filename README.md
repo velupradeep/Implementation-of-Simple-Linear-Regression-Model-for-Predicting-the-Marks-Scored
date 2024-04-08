@@ -23,6 +23,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 
 
+
+
+
+
+
 ```
 
 ## Program:
@@ -85,6 +90,11 @@ print('RMSE =',rmse)
 
 ## Output:
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/1cbd36d1-8030-4489-bdc7-2cefabd21477)
+```
+
+
+
+```
 
 
 
@@ -111,6 +121,13 @@ print('RMSE =',rmse)
 
 
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d887d7b0-5a95-4b95-ab2e-8f7a87ee2390)
+```
+
+
+
+
+
+````
 
 
 
