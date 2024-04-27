@@ -106,7 +106,6 @@ print('RMSE =',rmse)
 
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/d82a1425-0c61-41fb-8db0-6ed91f299249)
 
-
 ![image](https://github.com/velupradeep/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150329341/dc15f54d-3323-4cc1-a1bc-778479c2a138)
 
 
